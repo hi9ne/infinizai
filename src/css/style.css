@@ -82,7 +82,7 @@ header{
     margin-left: 36px;
     background: #57B8FF;
     border-radius: 0;
-    padding: 18px 32px;
+    padding: 10px 12px;
     margin-right: 60px;
 }
 .header-btn:hover{
@@ -99,7 +99,7 @@ header{
     font-weight: 400;
     font-size: 10px;
     line-height: 25px;
-    color: #80858F;
+    color: black;
     transform: rotate(-90deg);
     width: 113px;
     height: 25px;
@@ -400,7 +400,7 @@ padding-left: 617px;
 
 
 .news{
-    background: black;
+    background: blue;
 }
 .news-title{
     font-weight: 400;
